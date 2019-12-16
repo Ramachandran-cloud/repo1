@@ -1,0 +1,10 @@
+aws - source and targer systerm
+platform service
+storage platform as a service
+i used infrastructure as a service
+
+S3 - LOAD/READ,athena-analyze,spark
+load the objects into buckets
+
+IAAS
+
